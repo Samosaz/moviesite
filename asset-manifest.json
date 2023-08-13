@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demomoviesite/static/css/main.334bdeb1.css",
+    "main.js": "/demomoviesite/static/js/main.5ff4cfe6.js",
+    "index.html": "/demomoviesite/index.html",
+    "static/media/search.svg": "/demomoviesite/static/media/search.e0b45be11907e8dd912ffe4b346f88ef.svg",
+    "main.334bdeb1.css.map": "/demomoviesite/static/css/main.334bdeb1.css.map",
+    "main.5ff4cfe6.js.map": "/demomoviesite/static/js/main.5ff4cfe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.5ff4cfe6.js"
+  ]
+}
